@@ -5,5 +5,5 @@ int main() {
 printf("Início do Programa\n");
 printf("Fim\n");
 system("pause");
-return 0
+return 0;
 }
