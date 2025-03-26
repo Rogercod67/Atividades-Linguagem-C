@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float z = 4.7;
+int main(){
+  printf("Valor lido: %d\n", z);
+  system("pause");
+  return 0;
+}
